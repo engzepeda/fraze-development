@@ -1146,7 +1146,7 @@ button:focus {
 }
 
 #services .services-item .icon {
-  background: #e3fff2;
+  background: #e7e3ff;
   width: 110px;
   height: 110px;
   margin: 0px auto;
@@ -1160,7 +1160,7 @@ button:focus {
 
 #services .services-item .icon i {
   font-size: 40px;
-  color: #3ecf8e;
+  color: #151948;
   position: absolute;
   left: 0;
   right: 0;
@@ -1248,7 +1248,7 @@ button:focus {
 }
 
 #features .feature-item .feature-icon {
-  background: #e3fff2;
+  background: #e3e9ff;
   width: 100px;
   height: 100px;
   margin: 0px auto;
@@ -1260,7 +1260,7 @@ button:focus {
   border-radius: 50%;
   position: relative;
   margin-right: 30px;
-  border: 1px solid #3ecf8e;
+  border: 1px solid #5e629c;
   margin-top: 12px;
 }
 
@@ -1278,7 +1278,7 @@ button:focus {
 
 #features .feature-item .feature-icon i {
   font-size: 40px;
-  color: #3ecf8e;
+  color: #5e629c;
   position: absolute;
   left: 0;
   right: 0;
@@ -1322,7 +1322,7 @@ button:focus {
 }
 
 #features .feature-item:hover .feature-icon {
-  background: #3ecf8e;
+  background: #5e629c;
   transition: all 0.8s ease-in-out;
   -moz-transition: all 0.8s ease-in-out;
   -webkit-transition: all 0.8s ease-in-out;
